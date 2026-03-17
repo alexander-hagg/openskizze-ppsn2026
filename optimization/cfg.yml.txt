@@ -1,0 +1,15 @@
+num_niches: 5 # per feature/measure dimension
+num_generations: 180000
+num_emitters: 32
+mu: 0.0
+sigma: 1.0
+learning_rate: 1.0 # 0.01
+output_inv_frequency: 100
+batch_size: 16
+
+# SAIL configuration
+lambda_ucb: 1.0
+surrogate_update_frequency: 400
+surrogate_num_init_samples: 500
+surrogate_num_samples: 10
+surrogate_num_epochs: 2000

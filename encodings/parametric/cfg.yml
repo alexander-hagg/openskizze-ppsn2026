@@ -1,0 +1,7 @@
+length_design: 23
+max_num_buildings: 10
+max_num_floors: 10
+parcel_height_m: 69.0
+parcel_width_m: 69.0
+xy_scale: 3.0
+z_scale: 3.0
